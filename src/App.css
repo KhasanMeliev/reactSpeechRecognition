@@ -42,7 +42,7 @@ button:hover {
   transition: 0.2s;
 }
 #output {
-  color: white;
+  color: #ffd79d;
   font-weight: bold;
   font-size: 18px;
 }
