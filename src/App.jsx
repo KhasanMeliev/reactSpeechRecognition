@@ -13,7 +13,7 @@ const App = () => {
   } = useSpeechRecognition();
 
   if (!browserSupportsSpeechRecognition) {
-    return <span>Browser speech recognitionni qabul qilolmaydi!</span>;
+    return <span>Browser speech recognitionni qabul qilolmaydi!</span>
   }
 
   return (
